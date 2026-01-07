@@ -1,0 +1,5 @@
+{
+  "name": "HR Magic Suite",
+  "description": "專業的 HR 行政工具：包含名單管理、重複項檢查、隨機抽籤與自動分組功能，支持匯出 CSV。",
+  "requestFramePermissions": []
+}
